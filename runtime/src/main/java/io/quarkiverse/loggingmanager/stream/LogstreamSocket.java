@@ -1,4 +1,4 @@
-package io.quarkiverse.loggingui.quarkus.logging.ui.stream;
+package io.quarkiverse.loggingmanager.stream;
 
 import java.util.Map;
 import java.util.UUID;
